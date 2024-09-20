@@ -1,0 +1,40 @@
+body {
+  background-color: gray;
+  box-sizing: border-box;
+}
+.ram {
+  background-color: white;
+  width: 260px;
+  height: 760px;
+  border: 1px white solid;
+}
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  border: 20px solid rgba(0, 0, 0, 0.541);
+}
+.röd {
+  background-color: red;
+}
+.gul {
+  background-color: yellow;
+}
+.grön {
+  background-color: green;
+}
+.boxh {
+  background-color: rgba(255, 255, 255, 0.589);
+  height: 100px;
+  margin-top: 100px;
+}
+.highlight1 {
+  width: 200px;
+}
+.highlight2 {
+  width: 100px;
+  margin-top: 100px;
+}
+.highlight3 {
+  width: 100px;
+}
