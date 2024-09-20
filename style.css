@@ -27,14 +27,12 @@ body {
   background-color: rgba(255, 255, 255, 0.589);
   height: 100px;
   margin-top: 100px;
+  width: 100px;
 }
 .highlight1 {
-  width: 200px;
+  width: 100%;
 }
 .highlight2 {
-  width: 100px;
   margin-top: 100px;
-}
-.highlight3 {
-  width: 100px;
+  margin-left: 100px;
 }
